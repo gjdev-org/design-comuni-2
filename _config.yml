@@ -1,8 +1,8 @@
 # Dependencies
 
 source:         "."
-url:            "https://gjdev-org.github.io/design-comuni-2"
-baseurl:        ""
+url:            ""
+baseurl:        "https://gjdev-org.github.io/design-comuni-2/"
 destination:    ./_site
 encoding:       UTF-8
 exclude:
