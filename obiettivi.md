@@ -7,11 +7,6 @@ ref: obiettivi
 order: 1
 toc: false
 full-width: true
-redirect_from:
-  - /obiettivi
-  - /obiettivi.html
-redirect_to:
- - https://designers.italia.it/modello/comuni/
 ---
 
 <style>
