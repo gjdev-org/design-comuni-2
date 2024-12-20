@@ -5,9 +5,6 @@ description: Tutte le risorse per realizzare siti moderni e accessibili per i Co
 lang: it
 ref: homepage
 order: 1
-redirect_from: "/it/"
-redirect_to:
- - https://designers.italia.it/modello/comuni/
 ---
 {% include home/hero.html %}
 {% include home/content.html %}
